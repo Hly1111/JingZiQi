@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1379625735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95d246c8bce048effa018a6bfab36fac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bea454b7a61ebea9bb0814a256c55519
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 95d246c8bce048effa018a6bfab36fac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08f210828086c1a4398856e1ba65627c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dd51d29965c9d04599a2fdc8a833c6b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShapesRuntime
+  ClassName: Shapes.DashStyle
+- AssemblyName: ShapesRuntime
+  ClassName: Shapes.GradientFill
+Assets:
+- Assets/Prefabs/Rectangle.prefab
+- Assets/Prefabs/Cursor.prefab
+- Assets/Prefabs/Disc.prefab
+Dependencies: []
